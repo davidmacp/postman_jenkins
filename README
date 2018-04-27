@@ -3,3 +3,5 @@ This is for running Postman API Tests through Jenkins!
 ```
 $ newman run collection.json -e environment.json -r cli,junit,html
 ```
+
+:heart:
