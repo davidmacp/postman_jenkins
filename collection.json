@@ -79,7 +79,7 @@
 							"    var field = pm.response.json().errors[1].field;",
 							"    var message = pm.response.json().errors[1].message;",
 							"    pm.expect(field).to.eql(\"body\");",
-							"    pm.expect(message).to.eql(\"can't be baank\");",
+							"    pm.expect(message).to.eql(\"can't be blank\");",
 							"});",
 							""
 						]
