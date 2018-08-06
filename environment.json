@@ -1,111 +1,104 @@
 {
-  "id": "9a7f34bb-27a1-4c15-a652-aa6d2e1b18ef",
-  "name": "Beta2.dadi.cloud",
+  "id": "ea0c49ea-6e85-46ef-b6d6-94d1fdc36c33",
+  "name": "Integration",
   "values": [
     {
       "key": "url",
-      "value": "35.178.60.215:3001",
-      "enabled": true,
-      "type": "text"
+      "value": "52.214.26.93:3001",
+      "enabled": true
     },
     {
       "key": "clientId",
-      "value": "cloud-client",
-      "enabled": true,
-      "type": "text"
+      "value": "cloudtest",
+      "enabled": true
     },
     {
       "key": "secret",
-      "value": "nrq5d6jl0b",
-      "enabled": true,
-      "type": "text"
+      "value": "brjcbGLkRAn9XHxa",
+      "enabled": true
     },
     {
       "key": "timeNow",
-      "value": 1524197173756,
-      "enabled": true,
-      "type": "text"
+      "value": 1527158255387,
+      "enabled": true
     },
     {
       "key": "article_id",
-      "value": "5ad9671bcad8262f5a97a2f2",
-      "enabled": true,
-      "type": "text"
+      "value": "5b0693b9b568d835d96ea274",
+      "enabled": true
     },
     {
       "key": "knowledge_id",
-      "value": "5ad93e16cad8262f5a97a1f7",
-      "enabled": true,
-      "type": "text"
-    },
-    {
-      "key": "roadmap_id",
-      "value": "5ad93f6acad8262f5a97a1fd",
-      "enabled": true,
-      "type": "text"
+      "value": "5af8d09c1db223067632468a",
+      "enabled": true
     },
     {
       "key": "webservice_id",
-      "value": "5ad94065cad8262f5a97a202",
-      "enabled": true,
-      "type": "text"
+      "value": "5b069539b568d835d96ea27a",
+      "enabled": true
     },
     {
       "key": "milestoneTime",
       "value": 1524046810198,
-      "enabled": true,
-      "type": "text"
+      "enabled": true
     },
     {
       "key": "milestone_id",
-      "value": "5ad94179cad8262f5a97a208",
-      "enabled": true,
-      "type": "text"
+      "value": "5af8ea1f1db2230676324737",
+      "enabled": true
     },
     {
       "key": "page_id",
-      "value": "5ad94248cad8262f5a97a212",
-      "enabled": true,
-      "type": "text"
+      "value": "5b069585b568d835d96ea27f",
+      "enabled": true
     },
     {
       "key": "team_id",
-      "value": "5ad942e4cad8262f5a97a217",
-      "enabled": true,
-      "type": "text"
+      "value": "5b0695d8b568d835d96ea283",
+      "enabled": true
     },
     {
       "key": "partner_id",
-      "value": "5ad93db2cad8262f5a97a1f2",
-      "enabled": true,
-      "type": "text"
+      "value": "5b069607b568d835d96ea288",
+      "enabled": true
     },
     {
       "key": "tokenTime",
-      "value": 1524534662,
-      "enabled": true,
-      "type": "text"
+      "value": 1527158335,
+      "enabled": true
     },
     {
       "key": "tokendata_id",
-      "value": "5ade8d87ef6d8a5cb51308b5",
-      "enabled": true,
-      "type": "text"
+      "value": "5b069640b568d835d96ea28d",
+      "enabled": true
     },
     {
       "key": "tokenCreated",
-      "value": 1524534662,
-      "enabled": true,
-      "type": "text"
+      "value": 1527158335,
+      "enabled": true
     },
     {
       "key": "updateTokenTime",
-      "value": 1524534014,
-      "enabled": true,
-      "type": "text"
+      "value": 1527158366,
+      "enabled": true
+    },
+    {
+      "key": "category_id",
+      "value": "5af8d88d1db22306763246ae",
+      "enabled": true
+    },
+    {
+      "key": "multi_admin",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRJZCI6Im11bHRpLWxhbmciLCJhY2Nlc3NUeXBlIjoiYWRtaW4iLCJpYXQiOjE1MzEzNzY5OTIsImV4cCI6MTUzMTM3ODc5Mn0.guxiUj8jmiYVG9Rv87XeY-sdef-DvSrE85r-mBUYERM",
+      "enabled": true
+    },
+    {
+      "key": "search_admin",
+      "value": "ae862b6b-3bd4-4837-8222-9edc83120196",
+      "enabled": true
     }
   ],
   "_postman_variable_scope": "environment",
-  "_postman_exported_at": "2018-04-24T23:54:14.290Z",
-  "_postman_exported_using": "Postman/6.0.10"
+  "_postman_exported_at": "2018-08-06T06:30:39.793Z",
+  "_postman_exported_using": "Postman/6.2.1"
 }
